@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz-mdhtml
+cmds:
+- cmd: /out/fuzz-mdhtml
